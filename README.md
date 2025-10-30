@@ -1,9 +1,9 @@
-# 🏥 Healthcare Management System
+# 🏥 Patient Booking System
 
 ![Project Status](https://img.shields.io/badge/status-in%20progress-yellow)  
 This project is under active development. A few features are still being polished before the final version.
 
-This project is a comprehensive **Healthcare Management System** built during the [JavaScript Mastery](https://jsmastery.pro/) course. It leverages the latest technologies, including **Next.js**, **TypeScript**, **TailwindCSS**, and **Appwrite** to provide a full-featured platform for managing patient registrations, appointments, and more.
+This project is a comprehensive **Patient Booking System** built during the [JavaScript Mastery](https://jsmastery.pro/) course. It leverages the latest technologies, including **Next.js**, **TypeScript**, **TailwindCSS**, and **Appwrite** to provide a full-featured platform for managing patient registrations, appointments, and more.
 
 Designed and taught by Adrian Hajdin of JavaScript Mastery, this build demonstrates how to create a **scalable**, **responsive**, and **production-ready** healthcare app with features such as SMS notifications, admin dashboards, and secure file uploads.
 
@@ -12,12 +12,6 @@ Designed and taught by Adrian Hajdin of JavaScript Mastery, this build demonstra
 ---
 
 ## 🐛 Bugs
-
-- **Appointment Confirmation Issue**  
-  Some users might experience delays in SMS notifications after booking an appointment. Investigations are ongoing to resolve this.
-
-- **Admin Dashboard Rendering**  
-  The admin dashboard might render with some delay on slower devices. We are optimizing the performance for better speed.
 
 ---
 

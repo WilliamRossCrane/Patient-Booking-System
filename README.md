@@ -7,11 +7,7 @@ This project is a comprehensive **Healthcare Management System** built during th
 
 Designed and taught by Adrian Hajdin of JavaScript Mastery, this build demonstrates how to create a **scalable**, **responsive**, and **production-ready** healthcare app with features such as SMS notifications, admin dashboards, and secure file uploads.
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-![Appwrite](https://img.shields.io/badge/-Appwrite-01a9d9?style=flat-square&logo=appwrite&logoColor=white)  
-![Twilio](https://img.shields.io/badge/-Twilio-FF5C8D?style=flat-square&logo=twilio&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Appwrite](https://img.shields.io/badge/-Appwrite-01a9d9?style=flat-square&logo=appwrite&logoColor=white) ![Twilio](https://img.shields.io/badge/-Twilio-FF5C8D?style=flat-square&logo=twilio&logoColor=white)
 
 ---
 
@@ -80,13 +76,19 @@ npm install
 
 Create a .env.local file in the root of your project and add the following:
 
-# APPWRITE
+APPWRITE - 
 NEXT_PUBLIC_ENDPOINT=https://cloud.appwrite.io/v1
+
 PROJECT_ID=<your_project_id>
+
 API_KEY=<your_api_key>
+
 DATABASE_ID=<your_database_id>
+
 PATIENT_COLLECTION_ID=<patient_collection_id>
+
 APPOINTMENT_COLLECTION_ID=<appointment_collection_id>
+
 NEXT_PUBLIC_BUCKET_ID=<bucket_id>
 
 NEXT_PUBLIC_ADMIN_PASSKEY=111111
@@ -104,6 +106,7 @@ Then, open your browser and go to http://localhost:3000 to see the app in action
 ## 📺 Course Link
 
 This project was built using the [JavaScript Mastery Healthcare Management System Course](https://jsm.dev/healthcare-kit).  
+
 Watch the full tutorial on YouTube:  
 🔗 [Build a Full Stack Healthcare Management System App (YouTube)](https://www.youtube.com/watch?v=O5cmLDVTgAs)
 
